@@ -1,4 +1,4 @@
-test
+Github-Test
 ====
 
-testing repository creation, git commands, etc.
+Repository for learning github and testing git commands.
