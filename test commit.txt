@@ -8,3 +8,6 @@ merged 6 and 7!
 did it work?
 hmm
 from the other file
+test fetch
+changing
+changing 2
