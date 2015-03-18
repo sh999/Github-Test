@@ -1,4 +1,7 @@
 test commit
 2
+branch6 started
+change 2
 the real branch7
 added line
+merged 6 and 7!
