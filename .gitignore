@@ -2,3 +2,11 @@ file234.txt
 afile.txt
 ignorethis.txt
 ignorethis2.txt
+testignore.txt
+#Below ignores everything except anything in somefolder
+#For some reason deleting /* and /*/ or having * instead of those two can't replicate the behavior
+/*
+/*/
+!/somefolder/
+
+
