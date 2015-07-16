@@ -7,7 +7,13 @@ added line
 merged 6 and 7!
 did it work?
 hmm
+from the other file
 test fetch
 changing
 changing 2
+<<<<<<< HEAD
 bla
+=======
+from other
+
+>>>>>>> 7c250de771929faa92e468ef73182ee7d8d64295
